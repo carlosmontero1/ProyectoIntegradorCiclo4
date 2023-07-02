@@ -5,4 +5,4 @@
 + Oliver Pinos
 + Felipe Jimenez
 
-En el presente repositorio se encuntran todos los archivos correspondientes al Proyecto Integrador trabajo por todos los integrantes del Grupo.
+En el presente repositorio se encuentran todos los archivos correspondientes al Proyecto Integrador trabajado por todos los integrantes del grupo.
