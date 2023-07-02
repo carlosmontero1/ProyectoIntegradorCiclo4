@@ -1,7 +1,7 @@
 # Proyecto Integrador
 ## Integrantes 
 + Jonathan Coronel
-+ Felipe Jimenez
++ Felipe Jiménez
 + Carlos Monteros
 + Oliver Pinos
 
