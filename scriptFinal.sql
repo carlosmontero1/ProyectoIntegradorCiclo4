@@ -429,11 +429,6 @@ ALTER TABLE mydb.hogares
     ADD CONSTRAINT hogares_num_cuartos_negocio_ck CHECK (hogares.numero_cuartos_negocio >= 0
         );
 
-SELECT DISTINCT numero_cuartos_negocio
-FROM hogares
-ORDER BY 1;
-
-
 -- -----------------------------------------------------
 -- Table `mydb`.`servicios_basicos`
 -- -----------------------------------------------------
